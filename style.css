@@ -1,0 +1,44 @@
+.first-txt {
+    position: absolute;
+    top: 17px;
+    left: 40px;
+}
+.second-txt {
+    position: absolute;
+    top: 90px;
+    left: 40px;
+}
+
+.menu{
+    display :flex;
+    justify-content: space-between;
+    background-color:bisque;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.grid {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color:rgb(247, 210, 228);
+    width:310 px;
+    font-family: italic;
+}
+
+.lion{
+    text-align: center;
+}
